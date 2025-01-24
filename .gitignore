@@ -1,0 +1,24 @@
+/data
+/bnenv
+notebooks/examples
+/notebooks/case-2/AP*.csv
+/notebooks/case-2/data
+*.csv
+aGrUM
+bnlearn
+notebooks/case-2/plan.md
+*.xlsx
+notebooks/case-2/bayesian-network-probability.ipynb
+notebooks/case-2/bayesian-network-probability copy.ipynb
+notebooks/case-2/bayesian-network.ipynb
+notebooks/case-2/bayesian-network copy.ipynb
+notebooks/case-2/bn copy.ipynb
+notebooks/case-2/bn-Copy1.ipynb
+notebooks/case-2/bn-Copy2.ipynb
+notebooks/case-2/bnlearn.ipynb
+notebooks/case-2/act-and-sol/
+notebooks/case-2/data/
+notebooks/case-2/data-matrices/
+notebooks/case-2/combined_sequences.xlsx
+notebooks/case-2/PROD_NXT_question.xlsx
+
